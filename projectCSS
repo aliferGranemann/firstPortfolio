@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(24, 71, 97);
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif
+}
+
+header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 20px;
+}
+
+header a:hover{
+    color: rgb(255, 255, 0);
+}
+
+header a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+h1{
+    color: rgb(19, 219, 29);
+}
+
+section h2{
+    color: rgb(255, 204, 0);
+}
+
+footer p{
+    color: rgb(19, 219, 29);
+}
